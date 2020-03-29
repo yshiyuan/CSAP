@@ -1,0 +1,22 @@
+function [yAlarm] is called
+loop:1
+loop:2
+sig = 14
+BEEP
+loop:3
+loop:4
+loop:5
+loop:6
+loop:7
+sig = 14
+BEEP
+loop:8
+loop:9
+loop:10
+loop:11
+loop:12
+sig = 14
+BEEP
+loop:13
+sig = 2
+Caught SIGINT
